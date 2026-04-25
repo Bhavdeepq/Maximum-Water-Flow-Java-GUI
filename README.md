@@ -1,0 +1,2 @@
+# Design-a-GUI-Based-Solution-for-Maximum-Water-Flow-Using-Ford-Fulkerson-Algorithm-
+This project is a high-performance GUI-based Desktop Application that visualizes the Ford-Fulkerson Algorithm to solve the Maximum Flow problem in a flow network. Built for clarity and educational depth, it allows users to construct directed graphs, assign capacities, and watch the algorithm compute the bottleneck capacity and residual graphs .
