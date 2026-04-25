@@ -52,7 +52,7 @@ The system implements the Edmonds-Karp variation of the Ford-Fulkerson method, w
 
 ```bash
 # 1. Clone the repository
-git clone [https://github.com/Bhavdeepq/water-flow-max-flow.git]
+git clone [https://github.com/Bhavdeepq/Maximum-Water-Flow-Java-GUI]
 
 # 2. Navigate to the source folder
 cd water-flow-max-flow
